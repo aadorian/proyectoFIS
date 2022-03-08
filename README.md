@@ -3,16 +3,18 @@
 | Identificación del proyecto
 |-----------
 | Fundamentos de Ingeniería de Software
-ID M4A - Docente: Alejandro Adorjan
+M3A (Matturro - Yang)
+M4A (Adorjan- Falco)
+M3B/M4B (Adorjan - Kidd)
+N3A / N4A (Ferreiro-Falco-Kidd)
 Estudiantes: 
 
-Lectura: 30-ago-2021
+Lectura: 21-mar-2022
+Entrega 1: 2-may-2022
 
-Entrega 1: 18-oct-2021
+Code freeze: 20-jun-2022
 
-Code freeze: 22-nov-2021
-
-Entrega 2: 29-nov-2021
+Entrega 2: 27-jun-2022
 
 [Letra del proyecto](letra.md)
 
